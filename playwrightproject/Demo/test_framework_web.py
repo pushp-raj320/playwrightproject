@@ -28,13 +28,14 @@ def test_e2e_web(playwright:Playwright, browserInstance, user_credentials):
 
 
 
-# @pytest.mark.parametrize('user_credentials', user_credentials_list)
-# def test_select(playwright:Playwright, browserInstance, user_credentials):
-#     userName = user_credentials["userEmail"]
-#     password = user_credentials["userPassword"]
-#     loginPage = LoginPage(browserInstance)
-#     loginPage.navigate()
-#     dashboard = loginPage.login(userName, password)
-#     dashboard.selectcheckbox()
+@pytest.mark.parametrize('user_credentials', user_credentials_list)
+def test_select(playwright:Playwright, browserInstance, user_credentials):
+    userName = user_credentials["userEmail"]
+    password = user_credentials["userPassword"]
+    loginPage = LoginPage(browserInstance)
+    loginPage.navigate()
+    dashboard = loginPage.login(userName, password)
+    dashboard.selectcheckbox()
+    time.sleep(5)
 
 

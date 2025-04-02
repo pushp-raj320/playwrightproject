@@ -1,0 +1,84 @@
+2025-01-22 10:51:05,764 :INFO : test_formSubmission :Browser invoked
+2025-01-22 10:51:05,889 :INFO : test_formSubmission :entering the name:raj
+2025-01-22 10:51:05,978 :INFO : test_formSubmission :entered email : raj@gmail.com
+2025-01-22 10:51:06,051 :INFO : test_formSubmission :password provided: 45678
+2025-01-22 10:51:06,149 :INFO : test_formSubmission :checkbox selected
+2025-01-22 10:51:06,212 :INFO : test_formSubmission :gender selected
+2025-01-22 10:51:11,408 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-22 10:51:11,567 :INFO : test_formSubmission :Browser invoked
+2025-01-22 10:51:11,567 :INFO : test_formSubmission :Browser invoked
+2025-01-22 10:51:11,684 :INFO : test_formSubmission :entering the name:ravi
+2025-01-22 10:51:11,684 :INFO : test_formSubmission :entering the name:ravi
+2025-01-22 10:51:11,817 :INFO : test_formSubmission :entered email : ravi@gmail.com
+2025-01-22 10:51:11,817 :INFO : test_formSubmission :entered email : ravi@gmail.com
+2025-01-22 10:51:11,930 :INFO : test_formSubmission :password provided: 44478
+2025-01-22 10:51:11,930 :INFO : test_formSubmission :password provided: 44478
+2025-01-22 10:51:12,087 :INFO : test_formSubmission :checkbox selected
+2025-01-22 10:51:12,087 :INFO : test_formSubmission :checkbox selected
+2025-01-22 10:51:12,173 :INFO : test_formSubmission :gender selected
+2025-01-22 10:51:12,173 :INFO : test_formSubmission :gender selected
+2025-01-22 10:51:17,301 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-22 10:51:17,301 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-22 11:33:34,962 :INFO : test_formSubmission :Browser invoked
+2025-01-22 11:33:35,026 :INFO : test_formSubmission :entering the name:raj
+2025-01-22 11:33:35,088 :INFO : test_formSubmission :entered email : raj@gmail.com
+2025-01-22 11:33:35,131 :INFO : test_formSubmission :password provided: 45678
+2025-01-22 11:33:35,188 :INFO : test_formSubmission :checkbox selected
+2025-01-22 11:33:35,221 :INFO : test_formSubmission :gender selected
+2025-01-22 11:33:40,322 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-22 11:33:40,422 :INFO : test_formSubmission :Browser invoked
+2025-01-22 11:33:40,422 :INFO : test_formSubmission :Browser invoked
+2025-01-22 11:33:40,460 :INFO : test_formSubmission :entering the name:ravi
+2025-01-22 11:33:40,460 :INFO : test_formSubmission :entering the name:ravi
+2025-01-22 11:33:40,503 :INFO : test_formSubmission :entered email : ravi@gmail.com
+2025-01-22 11:33:40,503 :INFO : test_formSubmission :entered email : ravi@gmail.com
+2025-01-22 11:33:40,541 :INFO : test_formSubmission :password provided: 44478
+2025-01-22 11:33:40,541 :INFO : test_formSubmission :password provided: 44478
+2025-01-22 11:33:40,584 :INFO : test_formSubmission :checkbox selected
+2025-01-22 11:33:40,584 :INFO : test_formSubmission :checkbox selected
+2025-01-22 11:33:40,604 :INFO : test_formSubmission :gender selected
+2025-01-22 11:33:40,604 :INFO : test_formSubmission :gender selected
+2025-01-22 11:33:45,676 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-22 11:33:45,676 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-22 11:33:50,539 :INFO : test_e2e :getting all item name
+2025-01-22 11:33:50,760 :INFO : test_e2e :Entering country name
+2025-01-22 11:33:56,194 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-). : getting success msg
+2025-01-29 12:46:12,181 :INFO : test_formSubmission :Browser invoked
+2025-01-29 12:46:12,247 :INFO : test_formSubmission :entering the name:raj
+2025-01-29 12:46:12,310 :INFO : test_formSubmission :entered email : raj@gmail.com
+2025-01-29 12:46:12,356 :INFO : test_formSubmission :password provided: 45678
+2025-01-29 12:46:12,413 :INFO : test_formSubmission :checkbox selected
+2025-01-29 12:46:12,448 :INFO : test_formSubmission :gender selected
+2025-01-29 12:46:17,638 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-29 12:46:17,764 :INFO : test_formSubmission :Browser invoked
+2025-01-29 12:46:17,764 :INFO : test_formSubmission :Browser invoked
+2025-01-29 12:46:17,866 :INFO : test_formSubmission :entering the name:ravi
+2025-01-29 12:46:17,866 :INFO : test_formSubmission :entering the name:ravi
+2025-01-29 12:46:17,970 :INFO : test_formSubmission :entered email : ravi@gmail.com
+2025-01-29 12:46:17,970 :INFO : test_formSubmission :entered email : ravi@gmail.com
+2025-01-29 12:46:18,064 :INFO : test_formSubmission :password provided: 44478
+2025-01-29 12:46:18,064 :INFO : test_formSubmission :password provided: 44478
+2025-01-29 12:46:18,193 :INFO : test_formSubmission :checkbox selected
+2025-01-29 12:46:18,193 :INFO : test_formSubmission :checkbox selected
+2025-01-29 12:46:18,260 :INFO : test_formSubmission :gender selected
+2025-01-29 12:46:18,260 :INFO : test_formSubmission :gender selected
+2025-01-29 12:46:23,344 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-29 12:46:23,344 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.: this is the text we got
+2025-01-29 12:46:27,963 :INFO : test_e2e :getting all item name
+2025-01-29 12:46:28,192 :INFO : test_e2e :Entering country name
+2025-01-29 12:46:33,902 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-). : getting success msg
+2025-03-05 14:04:36,341 :INFO : test_e2e :getting all item name
+2025-03-05 14:04:36,770 :INFO : test_e2e :Entering country name
+2025-03-05 14:04:42,630 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-). : getting success msg
